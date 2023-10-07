@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\teste1\\cad\\cad.csproj": {}
+    "C:\\git\\teste2\\cad\\cad.csproj": {}
   },
   "projects": {
-    "C:\\git\\teste1\\cad\\cad.csproj": {
+    "C:\\git\\teste2\\cad\\cad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\teste1\\cad\\cad.csproj",
+        "projectUniqueName": "C:\\git\\teste2\\cad\\cad.csproj",
         "projectName": "cad",
-        "projectPath": "C:\\git\\teste1\\cad\\cad.csproj",
+        "projectPath": "C:\\git\\teste2\\cad\\cad.csproj",
         "packagesPath": "C:\\Users\\sn1081494\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\teste1\\cad\\obj\\",
+        "outputPath": "C:\\git\\teste2\\cad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sn1081494\\AppData\\Roaming\\NuGet\\NuGet.Config"

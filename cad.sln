@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cad", "cad.csproj", "{FAC265F4-FECD-4270-8D2D-D12A0C2C6FC5}"
+=======
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cad", "cad.csproj", "{C4633F4B-1F83-463D-9D74-FD806B177813}"
+>>>>>>> 8b0aeddb9810eec88d20e4591911d2bfe9f74c5d
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+		{FAC265F4-FECD-4270-8D2D-D12A0C2C6FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC265F4-FECD-4270-8D2D-D12A0C2C6FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC265F4-FECD-4270-8D2D-D12A0C2C6FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC265F4-FECD-4270-8D2D-D12A0C2C6FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
 		{C4633F4B-1F83-463D-9D74-FD806B177813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C4633F4B-1F83-463D-9D74-FD806B177813}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4633F4B-1F83-463D-9D74-FD806B177813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4633F4B-1F83-463D-9D74-FD806B177813}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 8b0aeddb9810eec88d20e4591911d2bfe9f74c5d
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
+		SolutionGuid = {E52B5958-D0F8-45C3-B5D4-0DA5A1569D82}
+=======
 		SolutionGuid = {335E98C9-560D-42F0-8AD7-B8D3596A51EF}
+>>>>>>> 8b0aeddb9810eec88d20e4591911d2bfe9f74c5d
 	EndGlobalSection
 EndGlobal
